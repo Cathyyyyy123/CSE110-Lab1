@@ -1,2 +1,1 @@
-Chang's User Page
-My favorite programming language is C++.
+# Chang Shu's User Page
