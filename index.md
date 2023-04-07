@@ -15,7 +15,7 @@
 ## In my spare time,
 - I usually ```work out``` to relax myself.
 - I like hanging out with my friends.
-- My favorite food is **Hot Pot**. {#hotpot}
+- My favorite food is **Hot Pot**. 
   - Here is the food if like [link to the photo](#hotpot)
 - I have two lovely kitties. {#cats}
   - Here are two kitties [link to cats](#cats)
@@ -41,11 +41,11 @@ I am really looking forward to collaborte with others in CSE110 and learn more a
 
 
 
-![Hot Pot](https://asianinspirations.com.au/wp-content/uploads/2018/07/R01293_Mala-Hot-Pot.jpg)
+![Hot Pot](https://asianinspirations.com.au/wp-content/uploads/2018/07/R01293_Mala-Hot-Pot.jpg){#hotpot}
 
 
 His name is Pancake and he is one year old.
-[link to Pancake](CSE110-lab1/IMG_2927.jpg)
+[link to Pancake](CSE110-lab1/IMG_2927.jpg){#cats}
 ![Pancake](CSE110-LAB1/../IMG_2927.jpg)
 His name is Princess and he is also one year old.
 [link to Princess](CSE110-lab1/IMG_2928.jpg)
