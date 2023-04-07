@@ -17,7 +17,7 @@
 - I like hanging out with my friends.
 - My favorite food is **Hot Pot**. 
   - Here is the food if like [link to the photo](#hotpot)
-- I have two lovely kitties. {#cats}
+- I have two lovely kitties. 
   - Here are two kitties [link to cats](#cats)
 
 ## Here are some goals in my life:
