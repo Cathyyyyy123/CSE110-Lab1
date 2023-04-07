@@ -40,12 +40,12 @@
 I am really looking forward to collaborte with others in CSE110 and learn more about coding.
 
 
-
-![Hot Pot](https://asianinspirations.com.au/wp-content/uploads/2018/07/R01293_Mala-Hot-Pot.jpg){#hotpot}
+{#hotpot}
+![Hot Pot](https://asianinspirations.com.au/wp-content/uploads/2018/07/R01293_Mala-Hot-Pot.jpg)
 
 
 His name is Pancake and he is one year old.
-[link to Pancake](CSE110-lab1/IMG_2927.jpg){#cats}
+[link to Pancake](CSE110-lab1/IMG_2927.jpg)[link to Pancake]{#cats}
 ![Pancake](CSE110-LAB1/../IMG_2927.jpg)
 His name is Princess and he is also one year old.
 [link to Princess](CSE110-lab1/IMG_2928.jpg)
