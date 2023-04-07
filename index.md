@@ -40,7 +40,7 @@
 I am really looking forward to collaborte with others in CSE110 and learn more about coding.
 
 
-{#hotpot}
+### Here's the food I like {#hotpot}
 ![Hot Pot](https://asianinspirations.com.au/wp-content/uploads/2018/07/R01293_Mala-Hot-Pot.jpg)
 
 
