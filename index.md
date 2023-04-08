@@ -13,7 +13,7 @@
 
 
 ## In my spare time,
-- I usually ```work out``` to relax myself.
+- I usually work out to relax myself.
 - I like hanging out with my friends.
 - My favorite food is **Hot Pot**. 
   - Here is the food if like [link to the photo](#hotpot)
@@ -40,12 +40,20 @@
 I am really looking forward to collaborte with others in CSE110 and learn more about coding.
 
 
+### Some basic code
+```
+int a = 5
+int b = 6
+int c = a + b
+```
+
 ### Here's the food I like {#hotpot}
 ![Hot Pot](https://asianinspirations.com.au/wp-content/uploads/2018/07/R01293_Mala-Hot-Pot.jpg)
 
 
+### Here's the two cats {#cats}
 His name is Pancake and he is one year old.
-[link to Pancake](CSE110-lab1/IMG_2927.jpg)[link to Pancake]{#cats}
+[link to Pancake](CSE110-lab1/IMG_2927.jpg)[link to Pancake]
 ![Pancake](CSE110-LAB1/../IMG_2927.jpg)
 His name is Princess and he is also one year old.
 [link to Princess](CSE110-lab1/IMG_2928.jpg)
