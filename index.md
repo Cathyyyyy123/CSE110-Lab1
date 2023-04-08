@@ -53,33 +53,6 @@ int c = a + b
 
 ### Here's the two cats {#cats}
 His name is Pancake and he is one year old.
-[link to Pancake](CSE110-lab1/IMG_2927.jpg)[link to Pancake]
 ![Pancake](CSE110-LAB1/../IMG_2927.jpg)
 His name is Princess and he is also one year old.
-[link to Princess](CSE110-lab1/IMG_2928.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Princess](CSE110-LAB1/../IMG_2928.jpg)
