@@ -1,4 +1,4 @@
-# Chang Shu's User Page
+# Chang Shu's Page
 
 ## I am a second year ERC student and majoring in Math-CS.
 
